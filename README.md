@@ -1,6 +1,8 @@
-# Clone pagina inicial do instagram
+# Cloning homepage Instagram
 
-- Usando responsividade 
-- flex box
-- html semantico
+## I learned
+
+- Responsiveness
+- Flex Box
+- Semantic HTML
 
